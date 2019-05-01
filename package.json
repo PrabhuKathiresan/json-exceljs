@@ -1,6 +1,6 @@
 {
   "name": "json-exceljs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Json data to excel sheet using exceljs",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "exceljs": "^1.9.1"
+    "exceljs": "^0.2.40"
   }
 }
