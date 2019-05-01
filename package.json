@@ -1,10 +1,14 @@
 {
   "name": "json-exceljs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Json data to excel sheet using exceljs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PrabhuKathiresan/json-exceljs.git"
   },
   "keywords": [
     "json",
